@@ -1,4 +1,4 @@
-package lr2;
+package LeetCode;
 
 import java.util.Map;
 import java.util.Scanner;
